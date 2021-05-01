@@ -4,10 +4,10 @@ Detection of Cyber-bullying and hate speech using Natural Language Processing
 
 
 ## Group 10
-Himanshu Gupta
-Sneha Aradhey
-Ashwini Nayak
-Jayaty Jayaty
+Himanshu Gupta<br />
+Sneha Aradhey<br />
+Ashwini Nayak<br />
+Jayaty Jayaty<br />
 
 
 ## Data
