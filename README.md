@@ -1,11 +1,13 @@
 # Cyberbullying-Detection
-Detection of Cyber-bullying and hate speech using Natural Language Processing
 ## CSC-522 - Course Project
+Detection of Cyber-bullying and hate speech using Natural Language Processing
+
+
 ## Group 10
-## Himanshu Gupta
-## Sneha Aradhey
-## Ashwini Nayak
-## Jayaty Jayaty
+Himanshu Gupta
+Sneha Aradhey
+Ashwini Nayak
+Jayaty Jayaty
 
 
 ## Data
